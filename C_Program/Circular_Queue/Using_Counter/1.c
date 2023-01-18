@@ -42,7 +42,11 @@ int main(){
     int delete = 0;
     int flag = 1;
     while(flag){
-        printf("Enter a choice : 1. push , 2. Display , 3. pop , 4. Exit \n");
+        printf("Enter a choice : 
+                                1. push 
+                                2. Display
+                                3. pop 
+                                4. Exit \n") ;
         scanf("%d" , ch);
         switch(ch){
             case 1:
