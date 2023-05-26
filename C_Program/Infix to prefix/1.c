@@ -96,5 +96,7 @@ int main(){
     printf("%s" , pos);
 }
 
+example (A + B * C) to (+A *BC)
+
 
 
