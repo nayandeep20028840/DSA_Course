@@ -1,2 +1,1 @@
-# DSA_Course
- Data Structures
+# basic data structures (LinkedList, Stacks, Queues)
